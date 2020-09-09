@@ -14,7 +14,7 @@ This project was to create an asynchronous web app that uses Web API and user da
 The requirement beforehand was to get a personal API Key by signing up to OpenWeatherMap.
 
 ## Functions
-- works with already installed node, express, cors and body-parser package
+- requires and the works with already installed node, express, cors and body-parser package
 - receives data from the OpenWeatherMap API on the location and country specified
 - send relevant weather information plus the content to the server to be stored
 - use this information package to update the UI on the webpage
