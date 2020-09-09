@@ -1,5 +1,5 @@
 # P03 Weather-Journal App Project
-This is the third project the Udacity course of "Front End Web Developer"
+This is the third project for the Udacity course "Front End Web Developer"
 
 ## Table of Contents
 
@@ -20,8 +20,8 @@ The requirement beforehand was to get a personal API Key by signing up to OpenWe
 - use this information package to update the UI on the webpage
 
 ## Extras
-- include a simple country selection between the United States and Germany
-- include the town in the result displayed
+- include a simple country selection with the choice of United States and Germany
+- include the town in the data displayed
 - receive from the API the temperature in celsius, display it on the webpage with the correct unit (°C)
 - change the date-format to DD-MM-YYYY, also corrected the displayed month (+1) [0..11]
 - change the design a bit to make it more user friendly
