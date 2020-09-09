@@ -10,7 +10,7 @@ let newDate = d.getDate()+'.'+(d.getMonth()+1)+'.'+ d.getFullYear();
 //Listen to the press of the button
 document.getElementById('generate').addEventListener('click', performAction);
 
-//What to do when button is pressed
+//Action when button is pressed
 function performAction(e){
 
     // Reading out the content
